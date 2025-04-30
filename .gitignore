@@ -14,6 +14,7 @@ dist-ssr
 images/
 images/blog-image-1.jpg
 images/blog-image-2.jpg
+ReactFashionBlog/public/images/
 
 # Editor directories and files
 .vscode/*
